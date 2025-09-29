@@ -31,6 +31,14 @@ This dashboard shows online sales in a clear and simple way. It helps to track t
 
 # Repository Structure
 • **Data**: [Details.csv](https://github.com/Parul-Chavan/sales-performance-dashboard/blob/main/Details.csv) – Dataset containing order details.  
-• **Dashboard**: `ecommerce_sales_dashboard.pbix` – Power BI dashboard file.  
-• **Images**: `sales_dashboard_snapshot.png` – Screenshot of the dashboard for README.  
+• **Dashboard**: [`ecommerce_sales_dashboard.pbix` – Power BI dashboard file. ](https://github.com/Parul-Chavan/sales-performance-dashboard/blob/main/sales-performance-dashboard.pbix) 
+• **Images**: <img width="1454" height="816" alt="sales_dashboard_snapshot" src="https://github.com/user-attachments/assets/f775b7b5-9cc6-42f5-a098-4fae269b3b14" />
+
+# Repository Structure
+- **Data**: [Details.csv](https://github.com/Parul-Chavan/sales-performance-dashboard/blob/main/Details.csv) – Dataset containing order details.  
+- **Dashboard**: [ecommerce_sales_dashboard.pbix](https://github.com/Parul-Chavan/sales-performance-dashboard/blob/main/sales-performance-dashboard.pbix) – Power BI dashboard file.  
+- **Images**:  
+  <img width="1454" height="816" alt="sales_dashboard_snapshot" src="https://github.com/user-attachments/assets/f775b7b5-9cc6-42f5-a098-4fae269b3b14" />
+
+ 
 
