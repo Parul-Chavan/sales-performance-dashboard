@@ -25,7 +25,12 @@ This dashboard shows online sales in a clear and simple way. It helps to track t
 • Profit by Month – Monthly profit trends with highs and lows.
 • Customer Insights – Top customers and their sales contribution.
 • Payment Mode Breakdown – COD, UPI, Debit Card, Credit Card, and EMI analysis.
+• Sub-Category Profitability – Detailed view of items like Printers, Bookcases, Sarees, Accessories, and Tables.
+• Interactive Dashboard – Easy filters by Quarter and Category for flexible analysis.
 
-Sub-Category Profitability – Detailed view of items like Printers, Bookcases, Sarees, Accessories, and Tables.
+# Repository Structure
+• Data: <a href="https://github.com/Parul-Chavan/sales-performance-dashboard/blob/main/Details.csv"></a>
+• Dashboard: ecommerce_sales_dashboard.pbix – Power BI dashboard file.
+• Images: makes it easy to add screenshots in README.
 
-Interactive Dashboard – Easy filters by Quarter and Category for flexible analysis.
+
