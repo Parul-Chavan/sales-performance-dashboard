@@ -29,8 +29,7 @@ This dashboard shows online sales in a clear and simple way. It helps to track t
 • Interactive Dashboard – Easy filters by Quarter and Category for flexible analysis.
 
 # Repository Structure
-• Data: <a href="https://github.com/Parul-Chavan/sales-performance-dashboard/blob/main/Details.csv"></a>
-• Dashboard: ecommerce_sales_dashboard.pbix – Power BI dashboard file.
-• Images: makes it easy to add screenshots in README.
-
+• **Data**: [Details.csv](https://github.com/Parul-Chavan/sales-performance-dashboard/blob/main/Details.csv) – Dataset containing order details.  
+• **Dashboard**: `ecommerce_sales_dashboard.pbix` – Power BI dashboard file.  
+• **Images**: `sales_dashboard_snapshot.png` – Screenshot of the dashboard for README.  
 
